@@ -4,6 +4,12 @@
 
 A script is provisioned by specifying a working directory, a log directory into which output from the script is recorded and a command to execute the script.
 
+## Installation
+- Vagrant
+- Virtual Box
+- Ruby
+- Bundler
+- clone Repo!
 
 ## Tests
 
